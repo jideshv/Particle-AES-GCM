@@ -8,7 +8,7 @@ See the [examples](examples) folder for more details.
 
 ## LICENSE
 
-Copyright 2006-2015, ARM Limited, All Rights Reserved (mbed tls) 
+Copyright 2006-2015, ARM Limited, All Rights Reserved (mbed tls)  
 Copyright 2019 Jidesh Veeramachaneni
 
 Licensed under the Apache License, Version 2.0
